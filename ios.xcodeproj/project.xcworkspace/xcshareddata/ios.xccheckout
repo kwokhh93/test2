@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>19ECC543-4A47-405C-BC5A-99E78853C4CF</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9430CD1200AE5A31F2F3FEC1CAF37CE3CE21E180</key>
+		<string>https://github.com/kwokhh93/Altitude-Labs.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9430CD1200AE5A31F2F3FEC1CAF37CE3CE21E180</key>
+		<string>IOS2/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kwokhh93/Altitude-Labs.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9430CD1200AE5A31F2F3FEC1CAF37CE3CE21E180</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9430CD1200AE5A31F2F3FEC1CAF37CE3CE21E180</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
